@@ -1,5 +1,6 @@
 [kubernetes-master-nodes]
-kubernetes-master ansible_host=18.197.167.105
+52.58.40.195 ansible_connection=ssh ansible_ssh_user=linuxjobber ansible_ssh_pass=8iu7*IU&
+
 
 [kubernetes-worker-nodes]
-kubernetes-worker ansible_host=3.121.196.80
+35.156.42.153 ansible_connection=ssh ansible_ssh_user=linuxjobber ansible_ssh_pass=8iu7*IU&
